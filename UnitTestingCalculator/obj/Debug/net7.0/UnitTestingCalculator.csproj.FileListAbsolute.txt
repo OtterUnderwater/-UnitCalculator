@@ -1,0 +1,14 @@
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\obj\Debug\net7.0\UnitTestingCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\obj\Debug\net7.0\UnitTestingCalculator.AssemblyInfoInputs.cache
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\obj\Debug\net7.0\UnitTestingCalculator.AssemblyInfo.cs
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\obj\Debug\net7.0\UnitTestingCalculator.csproj.CoreCompileInputs.cache
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\bin\Debug\net7.0\UnitTestingCalculator.exe
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\bin\Debug\net7.0\UnitTestingCalculator.deps.json
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\bin\Debug\net7.0\UnitTestingCalculator.runtimeconfig.json
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\bin\Debug\net7.0\UnitTestingCalculator.dll
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\bin\Debug\net7.0\UnitTestingCalculator.pdb
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\obj\Debug\net7.0\UnitTestingCalculator.dll
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\obj\Debug\net7.0\refint\UnitTestingCalculator.dll
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\obj\Debug\net7.0\UnitTestingCalculator.pdb
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\obj\Debug\net7.0\UnitTestingCalculator.genruntimeconfig.cache
+D:\otter\VSProject\UnitTestingCalculator\UnitTestingCalculator\obj\Debug\net7.0\ref\UnitTestingCalculator.dll
