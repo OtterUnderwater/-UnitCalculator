@@ -1,4 +1,4 @@
-# Unit Test And Libary Dll
+# Unit Test Calculator
 The first writing unit tests in c#.
 
 ## Installation
